@@ -1,0 +1,84 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+
+.a {
+    height: 100vh;
+    width: 70%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    background-color: #f2f2f2;
+}
+
+.left {
+    margin: 2%;
+    margin-top: 0%;
+    width: 34.5%;
+}
+
+.center {
+    width: 1%;
+}
+
+.right {
+    width: 34.5%;
+}
+
+.x {
+    padding: 2%
+}
+
+.ab {
+    display: inline-block;
+    width: 64%;
+    color: #81c3ce;
+}
+
+.img1 {
+    width: 165%;
+}
+
+.xx {
+    width: 18%;
+}
+
+.what {
+    text-align: right;
+    width: 26%
+}
+
+.things {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.xy {
+    width: 5%;
+}
+
+.xz {
+    font-size: large;
+}
+
+.adults {
+    margin-left: 26%;
+    width: 17%
+}
+
+.x1 {
+    width: 5%;
+}
+
+.z {
+    width: 12%;
+}
+
+.q {
+    color: #81c3ce;
+    font-weight: bold;
+}
